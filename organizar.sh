@@ -1,4 +1,5 @@
 #!/bin/bash
+# demonstração: https://youtu.be/0O_tog0Sx1w
 # script para organizar arquivos de exportação sagitário 2.3
 local=$(pwd)
 origem=IMP_EXP
